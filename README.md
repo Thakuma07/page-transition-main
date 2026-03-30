@@ -22,7 +22,7 @@ Elevate your user experience with high-performance, aesthetically pleasing stagg
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/thakuma07/page-transition.git
+git clone https://github.com/thakuma07/page-transition-main.git
 cd page-transition
 ```
 
